@@ -1,0 +1,5 @@
+.bs-searchbox .form-control{
+    height: 32px !important;
+    min-height: 20px !important;
+    border-color: #7571f9;
+}
